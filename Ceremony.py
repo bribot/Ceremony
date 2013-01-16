@@ -20,7 +20,7 @@ nao_address = ""
 
 def main():
     print "-----------------------------------------"
-    print "Welcome to Mediatec Robotics Manager"
+    print "Welcome to Ceremony Robot Manager"
     print "-----------------------------------------"
     print "Enter the internet directions of the NAOs pressing enter between them. At the end put 'end' to finish the addresses\n"
     while True:
